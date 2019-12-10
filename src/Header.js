@@ -11,7 +11,6 @@ const Header = function () {
     };
 
     return (
-        <div className="header">
         <div style={headerStyle}>
             Phone Directory
         </div>
