@@ -1,6 +1,5 @@
 import React from 'react';
 
-const Header = function() {
 const Header = function () {
     const headerStyle = {
         textAlign: 'center',
