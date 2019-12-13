@@ -6,7 +6,6 @@
       <button className="custom-btn delete-btn">Delete</button>
     </span>
   </div>
-})
 }
 </div>
 </div>
